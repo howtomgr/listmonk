@@ -1,0 +1,66 @@
+{
+  "category": "mailing-lists",
+  "created_date": "2025-09-15T22:48:58.030412",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    9000
+  ],
+  "dependencies": [
+    "postgresql"
+  ],
+  "description": "Listmonk is a free and open-source Newsletter. Self-hosted newsletter and mailing list manager",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mailing-lists/listmonk",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mailing-lists/listmonk",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.030439",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "listmonk",
+  "repository_url": "https://github.com/howtomgr/listmonk",
+  "spec_version": "2.0",
+  "subcategory": "mailing-lists",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mailing-lists",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Listmonk Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mailing-lists/listmonk"
+}
